@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+lookup_env
+*.DS_Store
+*.pyc
+__pycache__
+workspace.xml
+tasks.xml
